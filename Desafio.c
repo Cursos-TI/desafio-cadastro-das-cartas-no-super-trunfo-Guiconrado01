@@ -2,6 +2,7 @@
 
 int main(){
     printf("Desafio Xadrez");
+    printf("Novo commit/n");
     
   char Codigo[10];
   char Nome[15];
